@@ -12,7 +12,7 @@ st.title("📊 Attendance Dashboard")
 # -----------------------------
 # 2️⃣ Load data
 # -----------------------------
-file_path = r"C:\Users\Dennis Obull\Desktop\news\MY MODULES\ML\251212_KENYA_CENTRAL_2024AC_Monthly_Attendance_Database_Nov25.xlsx"
+file_path = "251212_KENYA_CENTRAL_2024AC_Monthly_Attendance_Database_Nov25.xlsx"
 
 df = pd.read_excel(file_path)
 
