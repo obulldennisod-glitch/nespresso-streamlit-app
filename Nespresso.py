@@ -5,7 +5,7 @@ import plotly.express as px
 # -----------------------------
 # 1️⃣ Page config
 # -----------------------------
-st.set_page_config(page_title="Attendance Dashboard", layout="wide")
+st.set_page_config(page_title="Attendance Dashboard - DENNIS OBULL", layout="wide")
 
 st.title("📊 Farmers Attendance Dashboard")
 
