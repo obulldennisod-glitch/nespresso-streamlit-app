@@ -6,7 +6,7 @@ import plotly.express as px
 # 1️⃣ Page config
 # -----------------------------
 st.set_page_config(page_title="Attendance Dashboard", layout="wide")
-==
+
 st.title("📊 Farmers Attendance Dashboard")
 
 # -----------------------------
